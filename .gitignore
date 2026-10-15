@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 venv/
 db.sqlite3
+medigo_full/medigo/media/
+medigo_full/medigo/backend/static_collected/
